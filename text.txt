@@ -1,3 +1,10 @@
+
+Name: Fish and Chips Restaurant
+
+Fish Menu
+
+Orata
+Tonno
 ines (10 sloc)  273 Bytes
 
 Name: Fish and Chips Restaurant
